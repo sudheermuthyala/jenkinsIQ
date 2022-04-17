@@ -37,6 +37,15 @@
 35. How do you integrate Git with Jenkins?
 36. Can you define a Continuous Delivery Workflow?
 37. What do you mean by Pipeline as a Code?
-38. 
+38. How do you store credentials in Jenkins securely?
+39. How can we stop a scheduled job from being executed temporarily?
+40. What are the ways to trigger a Jenkins Job/Pipeline?
+41. What is a Jenkins Shared Library and how it is useful?
+42. How can we share information between different build steps or stages in a Jenkins Job?
+43. How to create & use a Shared Library in Jenkins?
+44. How to install a Custom Jenkins Plugin or a Version of Plugin Not available in Jenkins Update Center?
+45. How to download the Console log for a particular Jenkins build programmatically?
+46. What is Jenkins Remote Access API?
+47. 
 
 
